@@ -1,0 +1,15 @@
+E:\TEST_PROYECTS\MassTransit\Components\bin\Debug\net8.0\Components.deps.json
+E:\TEST_PROYECTS\MassTransit\Components\bin\Debug\net8.0\Components.dll
+E:\TEST_PROYECTS\MassTransit\Components\bin\Debug\net8.0\Components.pdb
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.csproj.AssemblyReference.cache
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.GeneratedMSBuildEditorConfig.editorconfig
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.AssemblyInfoInputs.cache
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.AssemblyInfo.cs
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.csproj.CoreCompileInputs.cache
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.dll
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\refint\Components.dll
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.pdb
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\ref\Components.dll
+E:\TEST_PROYECTS\MassTransit\Components\bin\Debug\net8.0\Contracts.dll
+E:\TEST_PROYECTS\MassTransit\Components\bin\Debug\net8.0\Contracts.pdb
+E:\TEST_PROYECTS\MassTransit\Components\obj\Debug\net8.0\Components.csproj.CopyComplete

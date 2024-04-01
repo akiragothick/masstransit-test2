@@ -1,0 +1,9 @@
+POST https://localhost:7293/payment
+Content-Type: application/json
+
+{
+  "paymentId": "{{$random.uuid}}",
+  "reference" : "PAGO-01",
+  "documentNumber": "48239181",
+  "amount": 1000
+}

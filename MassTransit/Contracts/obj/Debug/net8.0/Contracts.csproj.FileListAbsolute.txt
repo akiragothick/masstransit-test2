@@ -1,0 +1,12 @@
+E:\TEST_PROYECTS\MassTransit\Contracts\bin\Debug\net8.0\Contracts.deps.json
+E:\TEST_PROYECTS\MassTransit\Contracts\bin\Debug\net8.0\Contracts.dll
+E:\TEST_PROYECTS\MassTransit\Contracts\bin\Debug\net8.0\Contracts.pdb
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.dll
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.pdb
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+E:\TEST_PROYECTS\MassTransit\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
